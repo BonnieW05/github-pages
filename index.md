@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: "Welcome to my blog"
 ## Welcome to My GitHub Pages! 🚀  
 
 Hi there! I'm **王涵**, a passionate **computer science student** with a deep interest in **algorithms, mathematics, and programming**. I enjoy solving complex problems, exploring **probability theory, data structures, and system programming**, and diving into the intricacies of **computational theory**.  
