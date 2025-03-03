@@ -1,9 +1,7 @@
 ---
 layout: home
-title: "Welcome to my blog"
+title: "Welcome to My GitHub Pages! 🚀"
 ---
-
-## Welcome to My GitHub Pages! 🚀  
 
 Hi there! I'm **王涵**, a passionate **computer science student** with a deep interest in **algorithms, mathematics, and programming**.  
 
