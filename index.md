@@ -1,6 +1,6 @@
 ---
+layout: home
 title: "Welcome to my blog"
-layout: default
 ---
 
 ## Welcome to My GitHub Pages! 🚀  
